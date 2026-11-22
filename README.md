@@ -2,7 +2,7 @@
 
 Rainbow Journal kurulum APK’sı ve uygulama içi güncelleme bilgisi için dağıtım deposu.
 
-İlk doğrulanmış APK yayını hazırlanıyor. Kurulum dosyası yayımlandığında Releases bölümünde bulunacak.
+[Son sürümü görüntüle ve indir](https://github.com/esra1403/rainbow-journal-updates/releases/latest). İlk public sürüm v3.62 yayımlandı. İndirme tamamlandıktan sonra Android kurulum onayını ver.
 
 - Yalnızca son sürümün APK ve update.json dosyaları tutulur.
 - Yeni dosyalar doğrulandıktan sonra önceki sürüm ve etiketleri kaldırılır.
